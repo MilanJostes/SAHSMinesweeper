@@ -1,0 +1,8 @@
+Winner
+Congratulations on winning Minesweeper.
+This game was made by Milan Jostes.
+;
+
+Lose
+Sorry, better luck next time.
+;
